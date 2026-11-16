@@ -164,3 +164,6 @@ todo
 * von Foerster H., Mora P.M., Amiot L.W. (1960). Doomsday: Friday, 13 November, A.D. 2026. Science, 132(3436), 1291–1295. https://doi.org/10.1126/science.132.3436.1291
 * Rudnicki R. Dynamika populacyjna [Population Dynamics]. https://im0.p.lodz.pl/~jbanasiak/MB/BiolPopRRudnicki.pdf
 * Weisstein E.W. Malthusian Growth Model. Wolfram MathWorld.
+
+### Github link 
+https://github.com/zoeblues/population_model
